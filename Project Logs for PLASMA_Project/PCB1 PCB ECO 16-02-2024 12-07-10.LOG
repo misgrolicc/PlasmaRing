@@ -1,0 +1,77 @@
+Added Component: Designator=C8(CY 5*7*2.5)
+Add component (AddParameter): Name = "BOM??"; Value = "??????,Y??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CY 5*7*2.5)
+Add component (AddParameter): Name = "BOM??"; Value = "??????,Y??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CY 5*7*2.5)
+Add component (AddParameter): Name = "BOM??"; Value = "??????,Y??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Component: Designator=CE1(CE-1.5*4*8)
+Add component (AddParameter): Name = "BOM??"; Value = "??????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ????????"; Value = "???????? ??????"; VariantName = "[No Variations]"
+Added Component: Designator=DR2(DO-15)
+Add component (AddParameter): Name = "BOM??"; Value = "?????????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Component: Designator=DZ1(DO-41)
+Add component (AddParameter): Name = "BOM??"; Value = "12V/1W???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Component: Designator=JP1 input(KF301-5.0-2P)
+Add component (AddParameter): Name = "BOM??"; Value = "2P???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????????: ????"; Value = "??????https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=JP2 output(KF301-5.0-2P)
+Add component (AddParameter): Name = "BOM??"; Value = "2P???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????????: ????"; Value = "??????https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=L1(AL0307)
+Add component (AddParameter): Name = "BOM??"; Value = "????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(TO247A)
+Add component (AddParameter): Name = "BOM??"; Value = "???N?????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ????????"; Value = "???????? ??????"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RS 5W)
+Add component (AddParameter): Name = "BOM??"; Value = "????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ????????"; Value = "???????? ??????"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RS 5W)
+Add component (AddParameter): Name = "BOM??"; Value = "????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ????????"; Value = "???????? ??????"; VariantName = "[No Variations]"
+Added Component: Designator=RP1(3296W)
+Add component (AddParameter): Name = "BOM??"; Value = "?????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ????????"; Value = "???????? ??????"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=CE1-2
+Added Pin To Net: NetName=NetC8_1 Pin=DR2-2
+Added Pin To Net: NetName=NetC8_1 Pin=DZ1-1
+Added Pin To Net: NetName=NetC8_1 Pin=JP1 input-2
+Added Pin To Net: NetName=NetC8_1 Pin=Q1-3
+Added Pin To Net: NetName=NetC8_1 Pin=RP1-3
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=C9-1
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=C10-1
+Added Pin To Net: NetName=NetC9_2 Pin=DR2-1
+Added Pin To Net: NetName=NetC9_2 Pin=Q1-1
+Added Pin To Net: NetName=NetC9_2 Pin=R4-1
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=JP2 output-1
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetCE1_1 Pin=CE1-1
+Added Pin To Net: NetName=NetCE1_1 Pin=JP1 input-1
+Added Pin To Net: NetName=NetCE1_1 Pin=L1-2
+Added Pin To Net: NetName=NetCE1_1 Pin=R3-2
+Added Net: Name=NetCE1_1
+Added Pin To Net: NetName=NetDZ1_2 Pin=DZ1-2
+Added Pin To Net: NetName=NetDZ1_2 Pin=R3-1
+Added Pin To Net: NetName=NetDZ1_2 Pin=RP1-1
+Added Net: Name=NetDZ1_2
+Added Pin To Net: NetName=NetJP2 output_2 Pin=JP2 output-2
+Added Pin To Net: NetName=NetJP2 output_2 Pin=L1-1
+Added Pin To Net: NetName=NetJP2 output_2 Pin=Q1-2
+Added Net: Name=NetJP2 output_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=RP1-2
+Added Net: Name=NetR4_2
+Added Class: Name=PLASMA

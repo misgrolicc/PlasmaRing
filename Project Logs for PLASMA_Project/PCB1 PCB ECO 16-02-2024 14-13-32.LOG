@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC10_2 Pin=H1 out-1
+Added Component: Designator=H2 out(PAD2-5.08)
+Add component (AddParameter): Name = "BOM??"; Value = "????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ??????"; Value = "???????? ????????"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetH1 out_2 Pin=H1 out-1
+Added Pin To Net: NetName=NetC10_2 Pin=H2 out-1
+Added Pin To Net: NetName=NetC10_2 Pin=H2 out-2
+Change Net Name : Old Net Name=NetH1 out_2 New Net Name=NetH1 out_1
+Added Member To Class: ClassName=PLASMA Member=Component H2 out PAD2

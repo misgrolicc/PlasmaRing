@@ -1,0 +1,132 @@
+Added Component: Designator=C1(C1812_L)
+Add component (AddParameter): Name = "BOM??"; Value = "???????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ????????"; Value = "???????? ??????"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C1812_L)
+Add component (AddParameter): Name = "BOM??"; Value = "???????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ????????"; Value = "???????? ??????"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C1812_L)
+Add component (AddParameter): Name = "BOM??"; Value = "???????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ????????"; Value = "???????? ??????"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C1812_L)
+Add component (AddParameter): Name = "BOM??"; Value = "???????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ????????"; Value = "???????? ??????"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CY 7.5*10*4)
+Add component (AddParameter): Name = "BOM??"; Value = "??????,Y??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CY 7.5*10*4)
+Add component (AddParameter): Name = "BOM??"; Value = "??????,Y??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CY 7.5*10*4)
+Add component (AddParameter): Name = "BOM??"; Value = "??????,Y??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Component: Designator=CE1(CE-3.5*8)
+Add component (AddParameter): Name = "BOM??"; Value = "??????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ????????"; Value = "???????? ??????"; VariantName = "[No Variations]"
+Added Component: Designator=CE(CE-3.5*8)
+Add component (AddParameter): Name = "BOM??"; Value = "??????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ????????"; Value = "???????? ??????"; VariantName = "[No Variations]"
+Added Component: Designator=DR2(DO-15)
+Add component (AddParameter): Name = "BOM??"; Value = "?????????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Component: Designator=DZ1(DO-41)
+Add component (AddParameter): Name = "BOM??"; Value = "12V/1W???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Component: Designator=DZ(DO-41)
+Add component (AddParameter): Name = "BOM??"; Value = "12V/1W???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Component: Designator=L1(AL0510)
+Add component (AddParameter): Name = "BOM??"; Value = "????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Component: Designator=L?(AL0204)
+Add component (AddParameter): Name = "BOM??"; Value = "????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(TO247A)
+Add component (AddParameter): Name = "BOM??"; Value = "???N?????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ????????"; Value = "???????? ??????"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(TO247A)
+Add component (AddParameter): Name = "BOM??"; Value = "???N?????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????V2024.2.3 @????:????"; Value = "??????https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ????????"; Value = "???????? ??????"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R1210_M)
+Add component (AddParameter): Name = "BOM??"; Value = "????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ????????"; Value = "???????? ??????"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R1210_M)
+Add component (AddParameter): Name = "BOM??"; Value = "????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ????????"; Value = "???????? ??????"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RS 2W)
+Add component (AddParameter): Name = "BOM??"; Value = "????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ????????"; Value = "???????? ??????"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RS 2W)
+Add component (AddParameter): Name = "BOM??"; Value = "????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ????????"; Value = "???????? ??????"; VariantName = "[No Variations]"
+Added Component: Designator=RP1(3296W)
+Add component (AddParameter): Name = "BOM??"; Value = "?????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ????????"; Value = "???????? ??????"; VariantName = "[No Variations]"
+Added Component: Designator=RP?(3296W)
+Add component (AddParameter): Name = "BOM??"; Value = "?????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ????????"; Value = "???????? ??????"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-1
+Added Pin To Net: NetName=NetC1_1 Pin=CE-2
+Added Pin To Net: NetName=NetC1_1 Pin=DZ-1
+Added Pin To Net: NetName=NetC1_1 Pin=Q?-3
+Added Pin To Net: NetName=NetC1_1 Pin=RP?-3
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=NetC1_2 Pin=C3-1
+Added Pin To Net: NetName=NetC1_2 Pin=C4-1
+Added Pin To Net: NetName=NetC1_2 Pin=Q?-1
+Added Pin To Net: NetName=NetC1_2 Pin=R1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=C9-1
+Added Pin To Net: NetName=NetC8_1 Pin=CE1-2
+Added Pin To Net: NetName=NetC8_1 Pin=DR2-2
+Added Pin To Net: NetName=NetC8_1 Pin=DZ1-1
+Added Pin To Net: NetName=NetC8_1 Pin=Q1-3
+Added Pin To Net: NetName=NetC8_1 Pin=RP1-3
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=C9-2
+Added Pin To Net: NetName=NetC8_2 Pin=C10-1
+Added Pin To Net: NetName=NetC8_2 Pin=DR2-1
+Added Pin To Net: NetName=NetC8_2 Pin=Q1-1
+Added Pin To Net: NetName=NetC8_2 Pin=R4-1
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetCE1_1 Pin=CE1-1
+Added Pin To Net: NetName=NetCE1_1 Pin=L1-2
+Added Pin To Net: NetName=NetCE1_1 Pin=R3-2
+Added Net: Name=NetCE1_1
+Added Pin To Net: NetName=NetCE_1 Pin=CE-1
+Added Pin To Net: NetName=NetCE_1 Pin=L?-2
+Added Pin To Net: NetName=NetCE_1 Pin=R2-2
+Added Net: Name=NetCE_1
+Added Pin To Net: NetName=NetDZ1_2 Pin=DZ1-2
+Added Pin To Net: NetName=NetDZ1_2 Pin=R3-1
+Added Pin To Net: NetName=NetDZ1_2 Pin=RP1-1
+Added Net: Name=NetDZ1_2
+Added Pin To Net: NetName=NetDZ_2 Pin=DZ-2
+Added Pin To Net: NetName=NetDZ_2 Pin=R2-1
+Added Pin To Net: NetName=NetDZ_2 Pin=RP?-1
+Added Net: Name=NetDZ_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=RP?-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=RP1-2
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=out1 Pin=C3-2
+Added Pin To Net: NetName=out1 Pin=C4-2
+Added Pin To Net: NetName=out1 Pin=C10-2
+Added Net: Name=out1
+Added Pin To Net: NetName=out2 Pin=L1-1
+Added Pin To Net: NetName=out2 Pin=L?-1
+Added Pin To Net: NetName=out2 Pin=Q1-2
+Added Pin To Net: NetName=out2 Pin=Q?-2
+Added Net: Name=out2

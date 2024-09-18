@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=PLASMA Member=JP2 output
+Added Component: Designator=*(M3 125X300)
+Add component (AddParameter): Name = "BOM??"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ??????"; Value = "???????? ????????"; VariantName = "[No Variations]"
+Added Component: Designator=*(M3 125X300)
+Add component (AddParameter): Name = "BOM??"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???????? ??????"; Value = "???????? ????????"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=Q1-2
+Added Net: Name=NetL1_1
+Added Member To Class: ClassName=PLASMA Member=Component * M3
+Added Member To Class: ClassName=PLASMA Member=Component * M3

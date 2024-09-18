@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=PLASMA Member=H1 out
+Removed Member From Class: ClassName=PLASMA Member=H2 out
+Added Pin To Net: NetName=out1 Pin=C10-2
+Added Net: Name=out1
+Added Pin To Net: NetName=out2 Pin=L1-1
+Added Pin To Net: NetName=out2 Pin=Q1-2
+Added Net: Name=out2
